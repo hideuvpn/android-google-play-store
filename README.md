@@ -11,7 +11,7 @@
 
 ![img](https://raw.githubusercontent.com/hideuvpn/android-google-play-store/master/google-play-framework-01.png)
 
-![img](https://raw.githubusercontent.com/hideuvpn/android-google-play-store/master/google-play-framework-01.png)
+![img](https://raw.githubusercontent.com/hideuvpn/android-google-play-store/master/google-play-framework-02.png)
 
 ## 2. google play service
 

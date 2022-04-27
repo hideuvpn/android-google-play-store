@@ -1,5 +1,5 @@
 ### 首先您需要V-P-N的支持
-[推荐使用HideUVPN](https://hidcdn.com/?f=dm9F7)，不限流量，不限速，价格实惠。
+[推荐使用HideU](https://hidcdn.com/?f=dm9F7)，不限流量，不限速，价格实惠。
 
 # 如何安装谷歌三件套
 1. google服务框架
